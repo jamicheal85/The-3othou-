@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jamic\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jamic\\.nuget\\packages"
+    ]
+  }
+}
